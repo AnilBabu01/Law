@@ -1,0 +1,167 @@
+.legalservice{
+
+    padding-left: 11rem;
+    padding-right: 9rem;
+    padding-right: -6rem;
+    
+}
+
+.legaltext{
+font-family: 'Test Geograph';
+font-weight: 500;
+font-size: 48px;
+text-align: center;
+color: #2D2347;
+}
+
+.loremtextlegal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.loremtextlegal p{
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 29px;
+margin-top: 0px;
+margin-bottom: 0px;
+text-align: center;
+color: #797979;
+}
+
+.carddiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.coloreddiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    justify-content: 239px;
+    width: 239px;
+    height: 105px;
+background: linear-gradient(180deg, #FF17B3 0%, #DA189B 100%);
+box-shadow: 48px 37px 104px rgba(20, 11, 72, 0.03);
+border-radius: 20px;
+}
+.nocolordiv{
+    
+    width: 239px;
+    height: 105px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    justify-content: 239px;
+
+background: #FFFFFF;
+box-shadow: 48px 37px 104px rgba(20, 11, 72, 0.03);
+border-radius: 20px;
+}
+.mgsdiv{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 65px;
+height: 65px;
+left: 148px;
+top: 43px;
+background: #FFFFFF;
+border-radius: 10px;
+}
+.anydiv{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 65px;
+height: 65px;
+left: 449px;
+top: 43px;
+background: #1FAAFF;
+border-radius: 10px;
+}
+
+.normaltext{
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 31px;
+display: flex;
+align-items: center;
+color: #2D2347;
+}
+.normaltext1{
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 31px;
+display: flex;
+align-items: center;
+}
+.howdiv{
+
+    height: 627px;
+    left: 1356px;
+    top: 213px;
+    background: #c5d3dc;
+    opacity: 0.6;
+    box-shadow: 0px 60px 80px rgba(87, 152, 192, 0.05);
+    border-radius: 20px;
+    padding: 31px;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.innerdiv{
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftdivinnner{
+width: 277px;
+height: 303px;
+margin-bottom: 1rem;
+background: #FFFFFF;
+box-shadow: 48px 37px 104px rgba(20, 11, 72, 0.04);
+border-radius: 20px;
+}
+.leftinnnermain{
+    display: flex;
+    width: 50%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.rightinnerdiv{
+width: 493.88px;
+height: 478.09px;
+background: #FFFFFF;
+border-radius: 20px;
+}
+
+.rigttex{
+    
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 68px;
+margin-top: 0px;
+margin-bottom: 0px;
+color: #2D2347;
+}
+.rigthtext{
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 29px;
+margin-top: 0px;
+margin-bottom: 0px;
+color: #797979;
+}

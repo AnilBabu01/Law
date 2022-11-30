@@ -1,0 +1,83 @@
+.main-top{
+    padding-left: 9.5rem;
+    padding-right: 11rem;
+    background: #d6e1ea;
+    box-shadow: 0px 60px 80px rgb(199 221 234 / 6%);
+}
+
+.nav-main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-style{
+    width: 500px;
+
+}
+.ul-style{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.arrow-text{
+    display: flex;
+}
+.arrow-text img{
+    margin-right: 5px;
+}
+.arrow-text p{
+font-family: 'Test Geograph';
+font-weight: 300;
+font-size: 14px;
+line-height: 32px;
+color: #2D2347;
+}
+
+.who-text{
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 16px;
+color: #1B1B1B;
+flex: none;
+order: 0;
+flex-grow: 0;
+text-decoration: none;
+}
+
+
+.legel-hub{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 18px;
+    gap: 8px;
+    background: linear-gradient(180deg, #FF17B3 0%, #DA189B 100%);
+    border-radius: 8px;
+}
+
+.nav-style-hub{
+    width: 749px;
+}
+
+.ul-style-hub{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main-header{
+    padding-left: 9.5rem;
+    padding-right: 11rem;
+    background: #FFFEFF;
+    box-shadow: 0px 60px 80px rgb(87 152 192 / 6%);
+}
+
+.nav-style-legal{
+    width: 433px;
+}

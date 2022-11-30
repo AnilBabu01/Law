@@ -1,0 +1,102 @@
+.mainhome{
+    position: absolute;
+    width: 1316px;
+    height: 1316px;
+    left: -978px;
+    z-index: -1;
+    top: -313px;
+    background: #1FAAFF;
+    border-radius: 800px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.mainhomemain{
+    margin-bottom: 59rem;
+    position: relative;
+    background: #FFFEFF;
+    box-shadow: 0px 60px 80px rgb(87 152 192 / 6%);
+}
+.contentdiv{
+    position: absolute;
+    padding-left: 13rem;
+    padding-top: 4rem;
+    display: flex;
+}
+.imgdiv{
+    border: 10px solid white;
+    border-radius: 5px;
+    background-color: white;
+}
+.imgdiv img{
+    width: 529.72px;
+    height: 618px;
+    left: 267.52px;
+    top: 193px;
+    border-radius: 5px;
+}
+
+.imgrighttext{
+    width: 40%;
+    margin-left: 25px;
+}
+
+
+
+.textimg{
+    font-family: 'Test Geograph';
+  
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.inputdiv{
+    width: 515px;
+    height: 62px;
+    top: 710px;
+    background: #E4F5FF;
+    box-shadow: 0px 60px 80px rgb(87 152 192 / 10%);
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 1rem;
+    align-items: center;
+
+}
+
+.inputdiv button{
+   border: none;
+    width: 58px;
+    height: 56px;
+    left: 1576px;
+    top: 723px;
+    
+    background: linear-gradient(180deg, #FF17B3 0%, #DA189B 100%);
+    border-radius: 8px;
+}
+
+.inputdiv input{
+    border: navajowhite;
+    font-family: 'Test Geograph';
+  
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #2D2347;
+    width: 56%;
+    background: #E4F5FF;
+    box-shadow: 0px 60px 80px rgb(87 152 192 / 10%);
+}
+.inputdiv input:focus{
+    outline: none;
+}
+.workimgdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+.workimgdiv img{
+    height: 40px;
+}
