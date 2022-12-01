@@ -8,6 +8,8 @@ import shoop from "../assets/shoop.svg";
 import law from "../assets/law.svg";
 import Badge from "@mui/material/Badge";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
+import KeyboardArrowUpIcon from "@mui/icons-material/KeyboardArrowUp";
+import uparrow from "../assets/uparrow.svg";
 import "./Header.css";
 const Header = () => {
   return (
@@ -20,12 +22,12 @@ const Header = () => {
               <ul className="ul-style">
                 <li>
                   <NavLink className="who-text" to="/legaldocuments">
-                    Legal Documents
+                    Legal Documents <img src={uparrow} />
                   </NavLink>
                 </li>
                 <li>
                   <NavLink className="who-text" to="/legalservices">
-                    Legal Services
+                    Legal Services <img src={uparrow} />
                   </NavLink>
                 </li>
                 <li>
@@ -41,7 +43,7 @@ const Header = () => {
             <ul className="ul-style-hub">
               <li>
                 <NavLink className="who-text" to="/">
-                  <img src={law} alt="law" />
+                  <img style={{ marginBottom: " 14px" }} src={law} alt="law" />
                 </NavLink>
               </li>
               <li>

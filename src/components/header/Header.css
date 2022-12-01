@@ -1,6 +1,5 @@
 .main-top{
-    padding-left: 9.5rem;
-    padding-right: 11rem;
+   
     background: #d6e1ea;
     box-shadow: 0px 60px 80px rgb(199 221 234 / 6%);
   
@@ -28,7 +27,7 @@
     margin-right: 5px;
 }
 .arrow-text p{
-font-family: 'Test Geograph';
+
 font-weight: 300;
 font-size: 14px;
 line-height: 32px;
@@ -36,7 +35,7 @@ color: #2D2347;
 }
 
 .who-text{
-font-family: 'Sofia Pro';
+
 font-style: normal;
 font-weight: 300;
 font-size: 16px;
@@ -59,6 +58,7 @@ text-decoration: none;
     gap: 8px;
     background: linear-gradient(180deg, #FF17B3 0%, #DA189B 100%);
     border-radius: 8px;
+    margin-left: 8px;
 }
 
 .nav-style-hub{

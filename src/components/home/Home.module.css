@@ -9,7 +9,9 @@
     border-radius: 800px;
     transform: matrix(-1, 0, 0, 1, 0, 0);
 }
-
+.textimginner{
+    margin-bottom: 72px;
+}
 .mainhomemain{
     margin-bottom: 59rem;
     position: relative;
@@ -18,9 +20,10 @@
 }
 .contentdiv{
     position: absolute;
-    padding-left: 13rem;
+    padding-left: 12rem;
     padding-top: 4rem;
     display: flex;
+   
 }
 .imgdiv{
     border: 10px solid white;
@@ -29,7 +32,7 @@
 }
 .imgdiv img{
     width: 529.72px;
-    height: 618px;
+    height: 772px;
     left: 267.52px;
     top: 193px;
     border-radius: 5px;
@@ -43,8 +46,7 @@
 
 
 .textimg{
-    font-family: 'Test Geograph';
-  
+   
     font-weight: 700;
     font-size: 60px;
 }
@@ -77,8 +79,6 @@
 
 .inputdiv input{
     border: navajowhite;
-    font-family: 'Test Geograph';
-  
     font-weight: 400;
     font-size: 16px;
     line-height: 32px;

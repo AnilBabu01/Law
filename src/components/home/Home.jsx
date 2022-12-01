@@ -21,7 +21,7 @@ const Home = () => {
               you <span style={{ color: "#1FAAFF" }}>understand</span> <br />
               the law
             </p>
-            <p>
+            <p className={style.textimginner}>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non
               scelerisque faucibus nunc, turpis metus volutpat ac tristique non.
               Ultricies faucibus amet,

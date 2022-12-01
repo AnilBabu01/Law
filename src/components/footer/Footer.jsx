@@ -49,14 +49,14 @@ const Footer = () => {
                 </p>
               </div>
               <div>
-                <p className="protext">Product</p>
+                <p className="protext1">Product</p>
                 <p className="loremtext">Commercial Law</p>
                 <p className="loremtext">Employment Law</p>
                 <p className="loremtext">GDPR Templates</p>
                 <p className="loremtext">Making a Claim</p>
               </div>
               <div>
-                <p className="protext">Legal Documents</p>
+                <p className="protext1">Legal Documents</p>
                 <p className="loremtext">Mus purus nulla lorem.</p>
                 <p className="loremtext">Mi a urna ultricies nisi.</p>
                 <p className="loremtext">Risus cursus pretium vel.</p>

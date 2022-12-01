@@ -7,7 +7,7 @@
 }
 
 .legaltext{
-font-family: 'Test Geograph';
+
 font-weight: 500;
 font-size: 48px;
 text-align: center;
@@ -21,7 +21,7 @@ color: #2D2347;
     justify-content: center;
 }
 .loremtextlegal p{
-font-family: 'Sofia Pro';
+
 font-style: normal;
 font-weight: 300;
 font-size: 16px;
@@ -85,7 +85,7 @@ border-radius: 10px;
 }
 
 .normaltext{
-font-family: 'Sofia Pro';
+
 font-style: normal;
 font-weight: 600;
 font-size: 22px;
@@ -95,7 +95,6 @@ align-items: center;
 color: #2D2347;
 }
 .normaltext1{
-font-family: 'Sofia Pro';
 font-style: normal;
 font-weight: 600;
 font-size: 22px;
@@ -150,7 +149,7 @@ border-radius: 20px;
 
 .rigttex{
     
-font-family: 'Sofia Pro';
+
 font-style: normal;
 font-weight: 600;
 font-size: 36px;
@@ -160,7 +159,7 @@ margin-bottom: 0px;
 color: #2D2347;
 }
 .rigthtext{
-font-family: 'Sofia Pro';
+
 font-style: normal;
 font-weight: 300;
 font-size: 16px;
@@ -179,7 +178,7 @@ color: #797979;
 }
 .lattediv p{
   
-font-family: 'Sofia Pro';
+
 font-style: normal;
 font-weight: 600;
 font-size: 16px;
@@ -208,7 +207,7 @@ border-radius: 8px;
 }
 
 .agreyext{
-    font-family: 'Sofia Pro';
+  
 font-style: normal;
 font-weight: 600;
 font-size: 18px;
@@ -233,7 +232,7 @@ color: #2D2347;
     border: none;
     background: #F2F2F2;
     border-radius: 10px;
-    font-family: 'Test Geograph';
+   
 
 font-weight: 500;
 font-size: 16px;
@@ -259,7 +258,7 @@ flex-grow: 0;
     
     background: #1FAAFF;
     border-radius: 8px;
-    font-family: 'Test Geograph';
+  
 
 font-weight: 500;
 font-size: 16px;
@@ -291,7 +290,7 @@ flex-grow: 0;
 .buynow{
 width: 228px;
 height: 42px;
-font-family: 'Test Geograph';
+
 
 font-weight: 500;
 font-size: 16px;
@@ -316,7 +315,7 @@ border-radius: 8px;
 
 .Dummy{
  
-font-family: 'Test Geograph';
+
 font-weight: 500;
 font-size: 22px;
 line-height: 68px;
@@ -326,7 +325,7 @@ color: #2D2347;
 }
 
 .curses{
-    font-family: 'Test Geograph';
+  
     font-style: italic;
     font-weight: 700;
     font-size: 16px;

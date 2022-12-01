@@ -20,7 +20,7 @@
     padding-top: 9px;
 }
 .bottomfooter p{
-    font-family: 'Sofia Pro';
+   
     font-style: normal;
     font-weight: 300;
     font-size: 14px;
@@ -36,15 +36,10 @@
     justify-content: space-between;
     align-items: center;
 }
-.rightdiv{
 
-}
-.leftdiv{
-    
-}
 
 .signuptext{
-font-family: 'Test Geograph';
+
 
 font-weight: 500;
 font-size: 44px;
@@ -54,7 +49,7 @@ color: #FFFFFF;
 }
 
 .loremtext{
-font-family: 'Sofia Pro';
+
 font-style: normal;
 font-weight: 300;
 font-size: 16px;
@@ -67,7 +62,7 @@ color: #FFFFFF;
     border: navajowhite;
     border-bottom: 1px solid white;
     width: 255px;
-    font-family: 'Mulish';
+ 
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -88,6 +83,8 @@ color: #FFFFFF;
     height: 43px;
     left: 1398px;
     top: 85px;
+    font-weight: 500;
+font-size: 16px;
     background: linear-gradient(180deg, #FF17B3 0%, #DA189B 100%);
     border-radius: 8px;
     border: navajowhite;
@@ -105,8 +102,8 @@ color: #FFFFFF;
     margin-top: 2rem;
 }
 
-.protext{
-    font-family: 'Sofia Pro';
+.protext1{
+
 font-style: normal;
 font-weight: 600;
 font-size: 26px;
