@@ -6,6 +6,8 @@ import insta from "../assets/inst.svg";
 import profile from "../assets/profile.svg";
 import shoop from "../assets/shoop.svg";
 import law from "../assets/law.svg";
+import Badge from "@mui/material/Badge";
+import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import "./Header.css";
 const Header = () => {
   return (
@@ -22,7 +24,7 @@ const Header = () => {
                   </NavLink>
                 </li>
                 <li>
-                  <NavLink className="who-text" to=" /legalservices ">
+                  <NavLink className="who-text" to="/legalservices">
                     Legal Services
                   </NavLink>
                 </li>
@@ -53,7 +55,9 @@ const Header = () => {
                 </NavLink>
               </li>
               <li>
-                <img src={shoop} alt="arrow" />
+                <Badge badgeContent={4} color="primary">
+                  <ShoppingCartIcon />
+                </Badge>
               </li>
               <li>
                 <div className="legel-hub">

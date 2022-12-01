@@ -5,6 +5,7 @@ import insta from "../assets/inst.svg";
 import linkdlen from "../assets/linkdlen.svg";
 import twiter from "../assets/twiter.svg";
 import arrow from "../assets/arrow.svg";
+import InstagramIcon from "@mui/icons-material/Instagram";
 import "./Header.css";
 const Topheader = () => {
   return (
@@ -46,8 +47,7 @@ const Topheader = () => {
               </li>
               <li>
                 <NavLink to="/">
-                  {" "}
-                  <img src={insta} alt="arrow" />{" "}
+                  <InstagramIcon style={{ color: " #1FAAFF" }} />
                 </NavLink>
               </li>
             </ul>

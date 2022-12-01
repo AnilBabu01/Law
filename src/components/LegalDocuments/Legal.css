@@ -105,7 +105,9 @@ align-items: center;
 }
 .howdiv{
 
-    height: 627px;
+    
+    height: 664px;
+
     left: 1356px;
     top: 213px;
     background: #c5d3dc;
@@ -123,12 +125,13 @@ align-items: center;
 }
 
 .leftdivinnner{
-width: 277px;
+    width: 244px;
 height: 303px;
 margin-bottom: 1rem;
 background: #FFFFFF;
 box-shadow: 48px 37px 104px rgba(20, 11, 72, 0.04);
 border-radius: 20px;
+padding: 11px;
 }
 .leftinnnermain{
     display: flex;
@@ -138,6 +141,7 @@ border-radius: 20px;
 }
 
 .rightinnerdiv{
+    padding: 11px;
 width: 493.88px;
 height: 478.09px;
 background: #FFFFFF;
@@ -164,4 +168,263 @@ line-height: 29px;
 margin-top: 0px;
 margin-bottom: 0px;
 color: #797979;
+
+}
+
+.lattediv{
+    display: flex;
+    /* justify-content: space-evenly; */
+    align-items: center;
+    width: 173px;
+}
+.lattediv p{
+  
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 28px;
+
+margin-left: 9px;
+
+/* identical to box height, or 175% */
+
+
+/* Sky Blue */
+
+color: #1FAAFF;  
+}
+.agreedivimg{
+    width: 26px;
+height: 26px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+/* Sky Blue */
+
+background: #1FAAFF;
+border-radius: 8px;
+}
+
+.agreyext{
+    font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 26px;
+margin-top: 0px;
+margin-bottom: 0px;
+
+color: #2D2347;
+}
+
+.agreebitndiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+.innserbtn1{
+    width: 98px;
+    height: 40px;
+    left: 25px;
+    top: 161px;
+    border: none;
+    background: #F2F2F2;
+    border-radius: 10px;
+    font-family: 'Test Geograph';
+
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.innserbtn2{
+    width: 133px;
+    height: 40px;
+    left: 120px;
+    top: 161px;
+    
+    border: none;
+    
+    background: #1FAAFF;
+    border-radius: 8px;
+    font-family: 'Test Geograph';
+
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.ormaindiv{
+    position: relative;
+    margin-top: 2rem;
+}
+.ortext{
+    position: absolute;
+    bottom: -23px;
+    left: 115px;
+    background: white;
+}
+
+.buynow{
+width: 228px;
+height: 42px;
+font-family: 'Test Geograph';
+
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+border: none;
+color: #FFFFFF;
+background: linear-gradient(180deg, #FF17B3 0%, #DA189B 100%);
+border-radius: 8px;
+}
+
+.aceesbtn{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+.firttextrightsdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Dummy{
+ 
+font-family: 'Test Geograph';
+font-weight: 500;
+font-size: 22px;
+line-height: 68px;
+color: #2D2347;
+   margin-top: 0px;
+   margin-bottom: 0px;
+}
+
+.curses{
+    font-family: 'Test Geograph';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    color: #6F6F6F;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.anymation{
+width: 88.42px;
+height: 14.28px;
+left: 491.49px;
+top: 433.26px;
+background: #F2F2F2;
+border-radius: 51px;
+}
+
+.anymatuon1{
+    width: 34.01px;
+    height: 14.28px;
+     background: #F2F2F2;
+    border-radius: 51px;
+}
+
+.animation2{
+width: 32.64px;
+height: 32.64px;
+background: #1FAAFF;
+border-radius: 40px;
+}
+
+.animation3
+{
+    
+width: 32.64px;
+height: 32.64px;
+background: #FE1DB3;
+border-radius: 40px;
+}
+.threeanimation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 148px;
+    margin-top: 28px;
+}
+.fivedivmain{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+.five1{
+width: 47.61px;
+height: 68.02px;
+
+background: #F4F4F4;
+border-radius: 203px;
+}
+.five2{
+width: 47.61px;
+height: 68.02px;
+background: #1FAAFF;
+border-radius: 203px;
+}
+
+.common{
+width: 64.61px;
+height: 8.16px;
+background: #F2F2F2;
+border-radius: 51px;
+}
+
+.commondiv{
+    display: flex;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+.notcommon1{
+width: 190.44px;
+height: 40.81px;
+margin-left: 3rem;
+background: #FE1DB3;
+border-radius: 52px;
+}
+.notcommon2{
+ width: 272.05px;
+height: 40.81px;
+margin-left: 4rem;
+background: #1FAAFF;
+border-radius: 52px;
+}
+.notcommon3{
+width: 272.05px;
+height: 40.81px;
+margin-left: 6rem;
+background: #FE1DB3;
+border-radius: 52px;
 }

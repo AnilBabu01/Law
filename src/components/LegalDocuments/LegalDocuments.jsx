@@ -5,6 +5,38 @@ import bes from "../assets/bes.svg";
 import lap from "../assets/lap.svg";
 import mgs from "../assets/mgs.svg";
 import agree from "../assets/agree.svg";
+
+const Cardagree = () => {
+  return (
+    <div className="leftdivinnner">
+      <div className="lattediv">
+        <div className="agreedivimg">
+          <img src={agree} alt="agree" />
+        </div>
+
+        <p>Letters</p>
+      </div>
+      <p className="agreyext">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In augue.
+      </p>
+      <div className="agreebitndiv">
+        <button className="innserbtn1">£125 + VAT</button>
+        <button className="innserbtn2">Buy Now</button>
+      </div>
+
+      <div className="ormaindiv">
+        <hr />
+        <div className="ortext">
+          <p>Or</p>
+        </div>
+      </div>
+
+      <div className="aceesbtn">
+        <button className="buynow">Access for Free</button>
+      </div>
+    </div>
+  );
+};
 const LegalDocuments = () => {
   return (
     <>
@@ -67,15 +99,50 @@ const LegalDocuments = () => {
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                   </p>
                 </div>
-                <div className="rightinnerdiv">2</div>
+                <div className="rightinnerdiv">
+                  <div className="firttextrightsdiv">
+                    <div>
+                      <p className="Dummy">Dummy Animations</p>
+                      <p className="curses">Cursus nibh</p>
+                    </div>
+                    <div>
+                      <div style={{ marginTop: "32px" }}>
+                        <div className="anymation"></div>
+                      </div>
+
+                      <div className="threeanimation">
+                        <div className="anymatuon1"></div>
+                        <div className="animation2"></div>
+                        <div className="animation3"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="fivedivmain">
+                    <div className="five1"></div>
+                    <div className="five2"></div>
+                    <div className="five1"></div>
+                    <div className="five1"></div>
+                    <div className="five1"></div>
+                  </div>
+                  <div className="commondiv">
+                    <div className="common"></div>
+                    <div className="notcommon1"></div>
+                  </div>
+                  <div className="commondiv">
+                    <div className="common"></div>
+                    <div className="notcommon2"></div>
+                  </div>
+                  <div className="commondiv">
+                    <div className="common"></div>
+                    <div className="notcommon3"></div>
+                  </div>
+                </div>
               </div>
               <div className="leftinnnermain">
-                <div className="leftdivinnner">
-                  <div></div>
-                </div>
-                <div className="leftdivinnner">1</div>
-                <div className="leftdivinnner">1</div>
-                <div className="leftdivinnner">1</div>
+                <Cardagree />
+                <Cardagree />
+                <Cardagree />
+                <Cardagree />
               </div>
             </div>
           </div>

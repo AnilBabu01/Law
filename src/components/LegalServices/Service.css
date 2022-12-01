@@ -1,0 +1,320 @@
+.legalservicetext{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sermaintext{
+font-family: 'Test Geograph';
+font-weight: 500;
+font-size: 48px;
+line-height: 68px;
+color: #2D2347;
+margin-top: 0px;
+margin-bottom: 0px;
+
+}
+.serbottom{
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 29px;
+margin-bottom: 0px;
+margin-top: 0px;
+color: #797979;
+
+}
+
+.activebtn{
+width: 56.08px;
+height: 56.08px;
+border: none;
+background: #1FAAFF;
+border-radius: 4px;
+}
+
+.mainbtn{
+display: flex;
+justify-content: space-between;
+width: 132px;
+}
+
+.rightbtn{
+width: 143px;
+height: 47.68px;
+border: none;
+background: linear-gradient(180deg, #FF17B3 0%, #DA189B 100%);
+border-radius: 8px;
+font-family: 'Test Geograph';
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+color: #FFFFFF;
+
+}
+
+.textmainss{
+position: relative;
+width: 275px;
+height: 375px;
+margin-top: 13rem;
+background: #FFFFFF;
+opacity: 0.4;
+box-shadow: 0px 60px 80px rgba(87, 152, 192, 0.18);
+
+}
+
+.textmainss img{
+    width: 256px;
+    height: 326px;
+    position: absolute;
+    margin-top: -11rem;
+    border-radius: 116px;
+    margin-left: 10px;
+}
+
+.namedivmain{
+    display: flex;
+    margin-bottom: 87px;
+    margin-top: -174px;
+    flex-direction: column;
+    width: 273px;
+    text-align: center;
+}
+
+.namedivmain p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.nametext{
+    
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 120%;
+
+letter-spacing: -0.03em;
+color: #23242A;
+}
+
+.fondertext{
+font-family: 'Test Geograph';
+font-weight: 400;
+font-size: 16px;
+line-height: 130%;
+
+color: #1F1F1F;
+}
+
+.textst{
+font-family: 'Test Geograph';
+font-style: italic;
+font-weight: 300;
+font-size: 14px;
+line-height: 130%;
+
+color: #1F1F1F;
+}
+
+.bsc{
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 140%;
+
+color: #797979;
+}
+
+.morebtnz{
+font-family: 'Test Geograph';
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+text-decoration-line: underline;
+color: #009EFF;
+
+}
+
+.mainlawcarddiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3rem;
+    flex-wrap: wrap;
+}
+
+.teamimg{
+    width: 596.28px;
+
+height: 509.53px;
+border-radius: 10px;
+}
+
+.imgglefttext
+{
+    
+font-family: 'Test Geograph';
+
+font-weight: 500;
+font-size: 48px;
+line-height: 68px;
+/* or 142% */
+
+
+/* Black */
+
+color: #2D2347;
+}
+
+.imgglefttext1
+{
+    
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 29px;
+/* or 180% */
+
+
+color: #797979;
+}
+
+.aboutbtn{
+    width: 151px;
+height: 52.16px;
+border: none;
+
+font-family: 'Test Geograph';
+
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+
+color: #FFFFFF;
+
+
+background: linear-gradient(180deg, #FF17B3 0%, #DA189B 100%);
+border-radius: 8px;
+}
+
+
+.teamimg1{
+    width: 274.49px;
+    height: 359.78px;
+    border-top-left-radius: 164px;
+    border-top-right-radius: 159px;
+    margin-right: 1rem;
+    position: absolute;
+    right: 422px;
+    top: 1532px;
+}
+
+.teamimg2{
+    width: 279.34px;
+    height: 459.67px;
+    border-top-left-radius: 164px;
+    border-top-right-radius: 159px;
+    position: absolute;
+    top: 89.5rem;
+    right: 131px;
+}
+.imgdivvv{
+    display: flex;
+}
+.imgdivtext{
+    padding-left: 1rem;
+    padding-right: 18rem;
+    width: 436px;
+    margin-bottom: 7rem;
+}
+
+.imgbenar{
+    width: 393px;
+height: 159px;
+
+
+background: rgba(255, 255, 255, 0.15);
+backdrop-filter: blur(14px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 8px;
+position: absolute;
+    left: 892px;
+    
+    margin-top: 45px;
+}
+
+.beforeslider{
+    height: 355px;
+
+    margin-bottom: 3rem;
+/* Black */
+
+background: #2D2347;
+box-shadow: 48px 37px 104px rgba(20, 11, 72, 0.03);
+border-radius: 15px;
+}
+
+.beforetextdiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 21px;
+    align-items: center;
+}
+
+.lointext{
+font-family: 'Test Geograph';
+font-weight: 500;
+font-size: 48px;
+line-height: 68px;
+color: #FFFFFF;
+}
+
+
+.afterjoin{
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 29px;
+color: #FFFFFF;
+}
+
+.joinimg{
+    width: 573px;
+    height: 317px;
+}
+
+.quamdinyext{
+    display: flex;
+}
+.quamdinyext p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+font-family: 'Sofia Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+
+/* Black */
+
+color: #2D2347;
+}
+
+.lotext{
+
+}
+.lotext p{
+    
+}
